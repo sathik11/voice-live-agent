@@ -89,7 +89,3 @@ A sample endpoint is `wss://<your-ai-foundry-resource-name>.cognitiveservices.az
 ## Interact with the Voice Live API
 
 Refer to the [full documentation of Voice Live API](https://learn.microsoft.com/azure/ai-services/<placeholder>) for more details on how to interact with the Voice Live API.
-
-## Getting started
-
-Follow the instructions [here](./samples/react/README.md) to get started with this sample.
